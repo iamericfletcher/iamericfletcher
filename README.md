@@ -11,7 +11,7 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
 - 🔭 I’m currently working on creating informative data visualizations. 
 - 🌱 I’m busy learning R, data visualization, and statistical analysis in order to help myself and others derive insight from data. I hope to inspire other administrative professionals to learn how to program. 
 - 👯 I’m looking to collaborate on R projects.
-- 📫 How to reach me: [Twitter](https://twitter.com/iamericfletcher) | [LinkedIn](https://www.linkedin.com/in/iamericfletcher/) | [StackOverflow](https://stackoverflow.com/users/13356730/eric-fletcher?tab=profile) | [Email](mailto:ericfletcher3@gmail.com)
+- 📫 How to reach me: [Blog](https://ericfletcher.netlify.app/) | [Twitter](https://twitter.com/iamericfletcher) | [LinkedIn](https://www.linkedin.com/in/iamericfletcher/) | [StackOverflow](https://stackoverflow.com/users/13356730/eric-fletcher?tab=profile) | [Email](mailto:ericfletcher3@gmail.com)
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I was the first male diver at Pace University!
 
