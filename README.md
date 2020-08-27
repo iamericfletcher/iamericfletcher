@@ -15,8 +15,6 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I was the first male diver at Pace University!
 
-![Eric's github stats](https://github-readme-stats.vercel.app/api?username=iamericfletcher&show_icons=true&theme=radical)
-
 
 
 <!--
