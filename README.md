@@ -14,9 +14,24 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
 - 👯 I’m looking to collaborate on `R` or `Python` projects.
 - 📫 How to reach me: [Twitter](https://twitter.com/iamericfletcher) | [LinkedIn](https://www.linkedin.com/in/iamericfletcher/) | [StackOverflow](https://stackoverflow.com/users/13356730/eric-fletcher?tab=profile) | [Email](mailto:ericfletcher3@gmail.com)
 - 😄 Pronouns: He, Him, His
-- ⚡ Fun fact: I was the first male diver at Pace University! 
+- ⚡ Fun fact: I was the first male diver at Pace University!
+
+## ✉️ Find me on:
 
 
+<p align="center">
+ <a href="www.linkedin.com/in/iamericfletcher" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:ericfletcher3@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br />
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="
+https://user-images.githubusercontent.com/64165327/96323524-73d4f700-0feb-11eb-966a-2e696238ff3b.jpg" alt="R" height="40" style="vertical-align:top; margin:4px"> 
+</p>
 
 
 
