@@ -45,9 +45,6 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=iamericfletcher&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=iamericfletcher&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=iamericfletcher&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=iamericfletcher&hide=php&theme=tokyonight" />
-</a>
 </div>
 
 
