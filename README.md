@@ -21,6 +21,7 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
 
 <p align="center">
  <a href="www.linkedin.com/in/iamericfletcher" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://stackoverflow.com/users/13356730/iamericfletcher"> <img src="https://user-images.githubusercontent.com/64165327/96323939-35d8d280-0fed-11eb-8791-ec823f1949cf.png" alt="StackOverflow" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:ericfletcher3@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
@@ -33,9 +34,6 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
  <img src="https://user-images.githubusercontent.com/64165327/96323735-83a10b00-0fec-11eb-8df2-f6f7657ff3c8.png" alt="Microsoft Power Automate" height="40" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/64165327/96323844-d8dd1c80-0fec-11eb-99f2-3d7ae5e957ec.png" alt="Microsoft SharePoint" height="40" style="vertical-align:top; margin:4px">
 </p>
-
-
-
 
 
 <!--
