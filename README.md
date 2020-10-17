@@ -1,5 +1,6 @@
 ### Hi, I'm Eric 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=iamericfletcher.iamericfletcher)
+![](https://visitor-badge.laobi.icu/badge?page_id=iamericfletcher.iamericfletcher) [![Github](https://img.shields.io/github/followers/iamericfletcher?label=Follow&style=social)](https://github.com/iamericfletcher)
+
 
 
 I am an enthusiastic and detail-oriented [Executive Assistant](https://hbr.org/2011/05/the-case-for-executive-assistants), team player, and communicator within the areas of Finance, Education, and Information Technology. I hold a Bachelor of Science in Business Administration with a concentration in Certified Financial Planning. I am well versed in adaptability, time management, collaboration, anticipating needs, communication, entrepreneurship, and decision making with a strong commitment to customer service and helping others to get things done.
