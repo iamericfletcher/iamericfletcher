@@ -1,4 +1,6 @@
 ### Hi, I'm Eric 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=iamericfletcher.iamericfletcher)
+
 
 I am an enthusiastic and detail-oriented [Executive Assistant](https://hbr.org/2011/05/the-case-for-executive-assistants), team player, and communicator within the areas of Finance, Education, and Information Technology. I hold a Bachelor of Science in Business Administration with a concentration in Certified Financial Planning. I am well versed in adaptability, time management, collaboration, anticipating needs, communication, entrepreneurship, and decision making with a strong commitment to customer service and helping others to get things done.
 
@@ -13,7 +15,7 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I was the first male diver at Pace University! 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamericfletcher&theme=tokyonight)
+
 
 
 
