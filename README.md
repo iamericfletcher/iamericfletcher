@@ -12,7 +12,6 @@ I am also busy teaching myself the `R` and `Python` programming languages. My ov
 Other hobbies of mine include running, biking, swimming, and jump roping.
 
 - 👯 I’m looking to collaborate on `R` or `Python` projects.
-- 📫 How to reach me: [Twitter](https://twitter.com/iamericfletcher) | [LinkedIn](https://www.linkedin.com/in/iamericfletcher/) | [StackOverflow](https://stackoverflow.com/users/13356730/eric-fletcher?tab=profile) | [Email](mailto:ericfletcher3@gmail.com)
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I was the first male diver at Pace University!
 
