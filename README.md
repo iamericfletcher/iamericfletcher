@@ -30,6 +30,7 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/64165327/96323524-73d4f700-0feb-11eb-966a-2e696238ff3b.jpg" alt="R" height="40" style="vertical-align:top; margin:4px"> 
+ <img src="https://user-images.githubusercontent.com/64165327/96323735-83a10b00-0fec-11eb-8df2-f6f7657ff3c8.png" alt="Microsoft Power Automate" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
