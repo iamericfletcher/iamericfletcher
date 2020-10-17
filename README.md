@@ -21,6 +21,8 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
 
 <p align="center">
  <a href="www.linkedin.com/in/iamericfletcher" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://twitter.com/iamericfletcher"> <img src="https://user-images.githubusercontent.com/64165327/96324016-83edd600-0fed-11eb-89ad-d776db64144a.png
+" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://stackoverflow.com/users/13356730/iamericfletcher"> <img src="https://user-images.githubusercontent.com/64165327/96323939-35d8d280-0fed-11eb-8791-ec823f1949cf.png" alt="StackOverflow" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:ericfletcher3@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
