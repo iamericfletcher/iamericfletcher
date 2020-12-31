@@ -47,14 +47,6 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
 </a>
 </div>
 
-<br>
-
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=iamericfletcher&hide=php&theme=tokyonight">
-  <img  align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=iamericfletcher&hide=php&theme=tokyonight" />
-</a>
-</div>
-
 
 <!--
 **iamericfletcher/iamericfletcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
