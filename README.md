@@ -7,7 +7,7 @@ I am an enthusiastic and detail-oriented [Executive Assistant](https://hbr.org/2
 
 Figuring out where I can add value is one of my guiding principles. My motivation to succeed, enthusiasm to communicate and learn, and love of problem-solving allow me to step into any situation. 
 
-I am also busy teaching myself the `R` and `Python` programming languages. My overarching goal is to deepen my problem-solving abilities while broadening my administratively focused skill set with the ability to harness data science techniques to help my Executive, or fellow team members, derive insight from data. Eventually, I would also like to inspire other administrative professionals to learn how to code!
+I am also busy teaching myself the `R`, `Python`, `JavaScript`, `C#`, and `C++` programming languages. My overarching goal is to deepen my problem-solving abilities while broadening my administratively focused skill set with the ability to harness data science techniques to help my Executive, or fellow team members, derive insight from data. Eventually, I would also like to inspire other administrative professionals to learn how to code!
 
 Other hobbies of mine include running, biking, swimming, and jump roping.
 
