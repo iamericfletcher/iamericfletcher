@@ -27,6 +27,7 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
 - The Book of R by Tilman M. Davies.
 - Eloquent JavaScript by Marijn Haverbeke.
 - Head First C# 3rd Edition by Andrew Stellman and Jennifer Greene.
+- Take Control of the Mac Command Line with Terminal, 3rd Edition by Joe Kissell.
 
 2021 completed programming work books:
 - WIP
