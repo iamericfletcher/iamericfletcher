@@ -15,23 +15,6 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I was the first male diver at Pace University!
 
-2021 books I am reading: 
-- The Mythical Man-Month by Fred Brooks.
-- Clean Code by Robert Cecil Martin
-
-2021 books I have read:
-- Project Phoenix by Gene Kim, Kevin Behr, George Spafford.
-
-2021 programming work books:
-- C++ Primer 5th Edition by Stanley Lippman, Josée Lajoie, and Barbara Moo.
-- The Book of R by Tilman M. Davies.
-- Eloquent JavaScript by Marijn Haverbeke.
-- Head First C# 3rd Edition by Andrew Stellman and Jennifer Greene.
-- Take Control of the Mac Command Line with Terminal, 3rd Edition by Joe Kissell.
-
-2021 completed programming work books:
-- WIP
-
 ## ✉️ Find me on:
 
 
