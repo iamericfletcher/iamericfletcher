@@ -1,7 +1,6 @@
-### Hi, I'm Eric 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=iamericfletcher.iamericfletcher) [![Github](https://img.shields.io/github/followers/iamericfletcher?label=Follow&style=social)](https://github.com/iamericfletcher)
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Eric Fletcher</h1>
 
-
+![](https://visitor-badge.laobi.icu/badge?page_id=iamericfletcher.iamericfletcher) [![Github](https://img.shields.io/github/followers/iamericfletcher?label=Follow&style=social)](https://github.com/iamericfletcher) [![dev.to badge](https://img.shields.io/badge/-iamericfletcher-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamericfletcher/) [![dev.to badge](https://img.shields.io/badge/-iamericfletcher-%230177B5?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/13356730/iamericfletcher) 
 
 I am an enthusiastic and detail-oriented [Executive Assistant](https://hbr.org/2011/05/the-case-for-executive-assistants), team player, and communicator within the areas of Finance, Education, and Information Technology. I hold a Bachelor of Science in Business Administration with a concentration in Certified Financial Planning. I am well versed in adaptability, time management, collaboration, anticipating needs, communication, entrepreneurship, and decision making with a strong commitment to customer service and helping others to get things done.
 
@@ -15,38 +14,7 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I was the first male diver at Pace University!
 
-## ✉️ Find me on:
-
-
-<p align="center">
- <a href="https://linkedin.com/in/iamericfletcher"> <img src="https://user-images.githubusercontent.com/64165327/96324384-979a3c00-0fef-11eb-94d0-d4274cc4b327.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://twitter.com/iamericfletcher"> <img src="https://user-images.githubusercontent.com/64165327/96324016-83edd600-0fed-11eb-89ad-d776db64144a.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://stackoverflow.com/users/13356730/iamericfletcher"> <img src="https://user-images.githubusercontent.com/64165327/96324226-a9c7aa80-0fee-11eb-9999-51105d6be6ad.png" alt="StackOverflow" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:ericfletcher3@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-<br />
-
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/64165327/96323524-73d4f700-0feb-11eb-966a-2e696238ff3b.jpg" alt="R" height="40" style="vertical-align:top; margin:4px"> 
- <img src="https://user-images.githubusercontent.com/64165327/96323735-83a10b00-0fec-11eb-8df2-f6f7657ff3c8.png" alt="Microsoft Power Automate" height="40" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/64165327/96323844-d8dd1c80-0fec-11eb-99f2-3d7ae5e957ec.png" alt="Microsoft SharePoint" height="40" style="vertical-align:top; margin:4px">
-</p>
-
 ## :trophy: My Github Stats:
-
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=iamericfletcher&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=iamericfletcher&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-</div>
-
 
 <!-- <a href="https://www.input-fields.com/"> -->
   <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=iamericfletcher&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamericfletcher&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" />
