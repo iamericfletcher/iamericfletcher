@@ -48,6 +48,11 @@ Other hobbies of mine include running, biking, swimming, and jump roping.
 </div>
 
 
+<!-- <a href="https://www.input-fields.com/"> -->
+  <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=iamericfletcher&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamericfletcher&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" />
+<!-- </a> -->
+
+
 <!--
 **iamericfletcher/iamericfletcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
