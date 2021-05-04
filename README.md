@@ -6,11 +6,11 @@ I am an enthusiastic and detail-oriented [Executive Assistant](https://hbr.org/2
 
 Figuring out where I can add value is one of my guiding principles. My motivation to succeed, enthusiasm to communicate and learn, and love of problem-solving allow me to step into any situation. 
 
-In my free time, I am busy teaching myself the `R`, `Python`, `JavaScript`, `C#`, and `C++` programming languages. My overarching goal is to deepen my problem-solving abilities while broadening my administratively focused skill set with the ability to harness data science techniques to help my Executive, or fellow team members, derive insight from data. Eventually, I would also like to inspire other administrative professionals to learn how to code!
+In my free time, I am busy teaching myself to program. My overarching goal is to deepen my problem-solving abilities while broadening my administratively focused skill set with the ability to harness data science techniques to help my Executive, or fellow team members, derive insight from data. Eventually, I would also like to inspire other administrative professionals to learn how to code!
 
 Other hobbies of mine include running, biking, swimming, and jump roping.
 
-- 👯 I’m looking to collaborate on `R` or `Python` projects.
+- 👯 I’m looking to collaborate on `R`, `Java`, or `Python` projects.
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I was the first male diver at Pace University!
 
