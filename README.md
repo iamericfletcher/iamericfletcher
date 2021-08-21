@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Eric Fletcher</h1>
+<h1 align="center">Hi, I'm Eric<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=iamericfletcher.iamericfletcher) [![Github](https://img.shields.io/github/followers/iamericfletcher?label=Follow&style=social)](https://github.com/iamericfletcher) [![dev.to badge](https://img.shields.io/badge/-iamericfletcher-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamericfletcher/) [![dev.to badge](https://img.shields.io/badge/-iamericfletcher-%230177B5?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/13356730/iamericfletcher) 
 
