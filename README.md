@@ -8,11 +8,6 @@ Figuring out where I can add value is one of my guiding principles. My motivatio
 
 In my free time, I am busy teaching myself to program. My overarching goal is to deepen my problem-solving abilities while broadening my administratively focused skill set with the ability to harness data science techniques to help my Executive, or fellow team members, derive insight from data. Eventually, I would also like to inspire other administrative professionals to learn how to code!
 
-Other hobbies of mine include running, biking, swimming, and jump roping.
-
-- 👯 I’m looking to collaborate on `R`, `Java`, or `Python` projects.
-- 😄 Pronouns: He, Him, His
-- ⚡ Fun fact: I was the first male diver at Pace University!
 
 ## :trophy: My Github Stats:
 
